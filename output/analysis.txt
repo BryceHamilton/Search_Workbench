@@ -1,24 +1,30 @@
- Uniform Cost: Uniform Cost:Total Length of Solution Path: 0Average Length of Solution Path: 0.0Total Length of Search Path: 0Average Length of Search Path: 0.0Total No Solutions: 1Total Cost of Solution Path: 0Average Cost of Solution Path: 0.0Total Execution Time: 60.006001999999995Average Execution Time: 1.2246122857142856
- Uniform Cost:Total Length of Solution Path: 10Average Length of Solution Path: 0.20408163265306123Total Length of Search Path: 4704Average Length of Search Path: 96.0Total No Solutions: 1Total Cost of Solution Path: 12Average Cost of Solution Path: 0.24489795918367346Total Execution Time: 69.99662899999998Average Execution Time: 1.428502632653061
- Uniform Cost:Total Length of Solution Path: 10Average Length of Solution Path: 0.20833333333333334Total Length of Search Path: 4704Average Length of Search Path: 98.0Total No Solutions: 2Total Cost of Solution Path: 12Average Cost of Solution Path: 0.25Total Execution Time: 130.010054Average Execution Time: 2.7085427916666664
- Uniform Cost:Total Length of Solution Path: 21Average Length of Solution Path: 0.4375Total Length of Search Path: 10325Average Length of Search Path: 215.10416666666666Total No Solutions: 2Total Cost of Solution Path: 24Average Cost of Solution Path: 0.5Total Execution Time: 144.19452700000002Average Execution Time: 3.0040526458333336
- Uniform Cost:Total Length of Solution Path: 21Average Length of Solution Path: 0.44680851063829785Total Length of Search Path: 10325Average Length of Search Path: 219.68085106382978Total No Solutions: 3Total Cost of Solution Path: 24Average Cost of Solution Path: 0.5106382978723404Total Execution Time: 204.202144Average Execution Time: 4.344726468085106
- Uniform Cost:Total Length of Solution Path: 21Average Length of Solution Path: 0.45652173913043476Total Length of Search Path: 10325Average Length of Search Path: 224.45652173913044Total No Solutions: 4Total Cost of Solution Path: 24Average Cost of Solution Path: 0.5217391304347826Total Execution Time: 264.20800899999995Average Execution Time: 5.743652369565217
- Uniform Cost:Total Length of Solution Path: 21Average Length of Solution Path: 0.4666666666666667Total Length of Search Path: 10325Average Length of Search Path: 229.44444444444446Total No Solutions: 5Total Cost of Solution Path: 24Average Cost of Solution Path: 0.5333333333333333Total Execution Time: 324.21692499999995Average Execution Time: 7.204820555555554
- Uniform Cost:Total Length of Solution Path: 21Average Length of Solution Path: 0.4772727272727273Total Length of Search Path: 10325Average Length of Search Path: 234.6590909090909Total No Solutions: 6Total Cost of Solution Path: 24Average Cost of Solution Path: 0.5454545454545454Total Execution Time: 384.2231309999999Average Execution Time: 8.732343886363635
- Uniform Cost:Total Length of Solution Path: 32Average Length of Solution Path: 0.7272727272727273Total Length of Search Path: 13240Average Length of Search Path: 300.90909090909093Total No Solutions: 6Total Cost of Solution Path: 35Average Cost of Solution Path: 0.7954545454545454Total Execution Time: 387.6323569999999Average Execution Time: 8.809826295454544
- Uniform Cost:Total Length of Solution Path: 45Average Length of Solution Path: 1.0227272727272727Total Length of Search Path: 21828Average Length of Search Path: 496.09090909090907Total No Solutions: 6Total Cost of Solution Path: 48Average Cost of Solution Path: 1.0909090909090908Total Execution Time: 423.00255799999985Average Execution Time: 9.613694499999996
- Uniform Cost:Total Length of Solution Path: 57Average Length of Solution Path: 1.2954545454545454Total Length of Search Path: 32228Average Length of Search Path: 732.4545454545455Total No Solutions: 6Total Cost of Solution Path: 61Average Cost of Solution Path: 1.3863636363636365Total Execution Time: 476.8772999999998Average Execution Time: 10.83812045454545
- Uniform Cost:Total Length of Solution Path: 57Average Length of Solution Path: 1.3255813953488371Total Length of Search Path: 32228Average Length of Search Path: 749.4883720930233Total No Solutions: 7Total Cost of Solution Path: 61Average Cost of Solution Path: 1.4186046511627908Total Execution Time: 536.8805079999997Average Execution Time: 12.48559320930232
- Uniform Cost:Total Length of Solution Path: 57Average Length of Solution Path: 1.3571428571428572Total Length of Search Path: 32228Average Length of Search Path: 767.3333333333334Total No Solutions: 8Total Cost of Solution Path: 61Average Cost of Solution Path: 1.4523809523809523Total Execution Time: 596.8895089999997Average Execution Time: 14.21165497619047
- Uniform Cost:Total Length of Solution Path: 67Average Length of Solution Path: 1.5952380952380953Total Length of Search Path: 39682Average Length of Search Path: 944.8095238095239Total No Solutions: 8Total Cost of Solution Path: 74Average Cost of Solution Path: 1.7619047619047619Total Execution Time: 623.0748229999998Average Execution Time: 14.835114833333328
- Uniform Cost:Total Length of Solution Path: 67Average Length of Solution Path: 1.6341463414634145Total Length of Search Path: 39682Average Length of Search Path: 967.8536585365854Total No Solutions: 9Total Cost of Solution Path: 74Average Cost of Solution Path: 1.8048780487804879Total Execution Time: 683.0826139999998Average Execution Time: 16.660551560975605
- Uniform Cost:Total Length of Solution Path: 78Average Length of Solution Path: 1.9024390243902438Total Length of Search Path: 46611Average Length of Search Path: 1136.8536585365853Total No Solutions: 9Total Cost of Solution Path: 87Average Cost of Solution Path: 2.1219512195121952Total Execution Time: 705.7596539999997Average Execution Time: 17.21365009756097
- Uniform Cost:Total Length of Solution Path: 78Average Length of Solution Path: 1.95Total Length of Search Path: 46611Average Length of Search Path: 1165.275Total No Solutions: 10Total Cost of Solution Path: 87Average Cost of Solution Path: 2.175Total Execution Time: 765.7738429999997Average Execution Time: 19.144346074999994
- Uniform Cost:Total Length of Solution Path: 88Average Length of Solution Path: 2.2Total Length of Search Path: 55630Average Length of Search Path: 1390.75Total No Solutions: 10Total Cost of Solution Path: 100Average Cost of Solution Path: 2.5Total Execution Time: 805.6365779999998Average Execution Time: 20.140914449999993
- Uniform Cost:Total Length of Solution Path: 88Average Length of Solution Path: 2.2564102564102564Total Length of Search Path: 55630Average Length of Search Path: 1426.4102564102564Total No Solutions: 11Total Cost of Solution Path: 100Average Cost of Solution Path: 2.5641025641025643Total Execution Time: 865.6424059999997Average Execution Time: 22.19595912820512
- Uniform Cost:Total Length of Solution Path: 99Average Length of Solution Path: 2.5384615384615383Total Length of Search Path: 61555Average Length of Search Path: 1578.3333333333333Total No Solutions: 11Total Cost of Solution Path: 112Average Cost of Solution Path: 2.871794871794872Total Execution Time: 882.0376089999997Average Execution Time: 22.616348948717942
- Uniform Cost:Total Length of Solution Path: 109Average Length of Solution Path: 2.7948717948717947Total Length of Search Path: 65109Average Length of Search Path: 1669.4615384615386Total No Solutions: 11Total Cost of Solution Path: 122Average Cost of Solution Path: 3.128205128205128Total Execution Time: 887.2944729999997Average Execution Time: 22.751140333333325
- Uniform Cost:Total Length of Solution Path: 122Average Length of Solution Path: 3.128205128205128Total Length of Search Path: 73963Average Length of Search Path: 1896.4871794871794Total No Solutions: 11Total Cost of Solution Path: 135Average Cost of Solution Path: 3.4615384615384617Total Execution Time: 926.3734809999996Average Execution Time: 23.75316617948717
- Uniform Cost:Total Length of Solution Path: 122Average Length of Solution Path: 3.210526315789474Total Length of Search Path: 73963Average Length of Search Path: 1946.3947368421052Total No Solutions: 12Total Cost of Solution Path: 135Average Cost of Solution Path: 3.5526315789473686Total Execution Time: 986.3790789999996Average Execution Time: 25.957344184210516
- Uniform Cost:Total Length of Solution Path: 132
+Greedy Best First h1:Total Length of Solution Path: 1418
+Average Length of Solution Path: 28.36
+Total Length of Search Path: 2162
+Average Length of Search Path: 43.24
+Total No Solutions: 0
+Total Cost of Solution Path: 2369
+Average Cost of Solution Path: 47.38
+Total Execution Time: 0.11335899999721732
+Average Execution Time: 0.0022671799999443463
+
+Greedy Best First h2:Total Length of Solution Path: 2388
+Average Length of Solution Path: 47.76
+Total Length of Search Path: 17615
+Average Length of Search Path: 352.3
+Total No Solutions: 0
+Total Cost of Solution Path: 3704
+Average Cost of Solution Path: 74.08
+Total Execution Time: 6.13434899999902
+Average Execution Time: 0.12268697999998039
+
+Greedy Best First h3:Total Length of Solution Path: 1832
+Average Length of Solution Path: 36.64
+Total Length of Search Path: 7326
+Average Length of Search Path: 146.52
+Total No Solutions: 0
+Total Cost of Solution Path: 2761
+Average Cost of Solution Path: 55.22
+Total Execution Time: 1.1322650000006433
+Average Execution Time: 0.02264530000001287
+
