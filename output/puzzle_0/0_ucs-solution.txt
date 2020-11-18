@@ -1,1 +1,1 @@
-No Solutioncost: 0, execution-time: 60.01624
+No Solutioncost: 0, execution-time: 60.005382
